@@ -20,6 +20,8 @@ body {
 
 h1 {
     font-size: 40px;
+    color: #fff;
+
 }
 
 img {
@@ -29,6 +31,7 @@ img {
 }
 
 p {
+    color: #fff;
     margin: 10px 0;
     padding: 10px 0;
     font-weight: 600;
